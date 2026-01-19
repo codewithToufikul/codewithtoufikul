@@ -1,47 +1,132 @@
-![logo](https://github.com/codewithToufikul/codewithtoufikul/blob/main/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)
-<h1 align="center">Hi 👋, I'm Toufikul Islam</h1>
-<h3 align="center">A passionate Front-End Web Developer from Bangladesh</h3>
-<img align="right" width="400" alt="code" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithtoufikul&label=Profile%20views&color=0e75b6&style=flat" alt="codewithtoufikul" /> </p>
+<div align="center">
+  
+# 👋 Hi, I'm Toufikul Islam
 
-- 🔭 I’m currently Studying Diploma in Engineering 4th Semester.
+### Full Stack Developer | Problem Solver | Tech Enthusiast
 
-- 🌱 I’m currently learning **Back-End Development**
+[![Portfolio](https://img.shields.io/badge/Portfolio-toufikul--portfolio.web.app-blue?style=for-the-badge&logo=google-chrome)](https://toufikul-portfolio.web.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/toufikul-islamts](www.linkedin.com/in/toufikul-islamts)
+</div>
 
-- 💬 Ask me about **React.js**
+---
 
-- 📫 How to reach me **imranmeg2356@gmail.com**
+## 🚀 About Me
 
-- 📄 Know about me [https://drive.google.com/file/d/1MrXZzzYiyVPGCHB9klDBZsi-6VytUiQ4/view](https://drive.google.com/file/d/1MrXZzzYiyVPGCHB9klDBZsi-6VytUiQ4/view)
+```javascript
+const toufikul = {
+    location: "Dhaka, Bangladesh",
+    role: "Full Stack Developer",
+    passions: ["Web Development", "Problem Solving", "Learning New Technologies"],
+    currentFocus: "Building scalable web applications",
+    funFact: "I turn coffee into code ☕"
+};
+```
 
-- ⚡ Fun fact **I think Iam not funny 😶**
+I'm a passionate developer who loves creating elegant solutions to complex problems. I enjoy working with modern technologies and continuously learning to stay updated with the latest trends in web development.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/toufikul-islamts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toufikults" height="30" width="40" /></a>
-<a href="https://fb.com/toufikulislam24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="toufikulislam24" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+## 💻 Tech Stack
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+---
 
-</p>
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithtoufikul&show_icons=true&locale=en&layout=compact" alt="codewithtoufikul" /></p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithtoufikul&show_icons=true&locale=en" alt="codewithtoufikul" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithtoufikul&" alt="codewithtoufikul" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+### 🌟 [Project Name 1](https://github.com/yourusername/project1)
+A full-stack web application built with React, Node.js, and MongoDB. Features include user authentication, real-time updates, and responsive design.
+
+**Tech:** React • Node.js • Express • MongoDB • Tailwind CSS
+
+---
+
+### 🌟 [Project Name 2](https://github.com/yourusername/project2)
+An e-commerce platform with payment integration, product management, and admin dashboard.
+
+**Tech:** Next.js • TypeScript • Firebase • Stripe
+
+---
+
+### 🌟 [Project Name 3](https://github.com/yourusername/project3)
+A real-time chat application with WebSocket integration and modern UI.
+
+**Tech:** React • Socket.io • Node.js • MongoDB
+
+---
+
+## 🎯 Current Goals
+
+- 🔭 Working on building scalable web applications
+- 🌱 Learning advanced backend architecture and cloud technologies
+- 👯 Looking to collaborate on open-source projects
+- 💬 Ask me about React, Node.js, or web development in general
+- ⚡ Fun fact: I debug with console.log() and I'm not ashamed!
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true)
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in hearing about new projects and opportunities. Feel free to reach out!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge)](https://toufikul-portfolio.web.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+
+⭐️ From [Toufikul Islam](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
