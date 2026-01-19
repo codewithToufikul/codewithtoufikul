@@ -5,8 +5,8 @@
 ### Full Stack Developer | Problem Solver | Tech Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-toufikul--portfolio.web.app-blue?style=for-the-badge&logo=google-chrome)](https://toufikul-portfolio.web.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/toufikul-islamts)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:imranmeg2356@gmail.com)
 
 </div>
 
@@ -57,36 +57,13 @@ I'm a passionate developer who loves creating elegant solutions to complex probl
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithtoufikul&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithtoufikul&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithtoufikul&theme=radical&hide_border=true)
 
 </div>
-
----
-
-## 🏆 Featured Projects
-
-### 🌟 [Project Name 1](https://github.com/yourusername/project1)
-A full-stack web application built with React, Node.js, and MongoDB. Features include user authentication, real-time updates, and responsive design.
-
-**Tech:** React • Node.js • Express • MongoDB • Tailwind CSS
-
----
-
-### 🌟 [Project Name 2](https://github.com/yourusername/project2)
-An e-commerce platform with payment integration, product management, and admin dashboard.
-
-**Tech:** Next.js • TypeScript • Firebase • Stripe
-
----
-
-### 🌟 [Project Name 3](https://github.com/yourusername/project3)
-A real-time chat application with WebSocket integration and modern UI.
-
-**Tech:** React • Socket.io • Node.js • MongoDB
 
 ---
 
@@ -102,7 +79,7 @@ A real-time chat application with WebSocket integration and modern UI.
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithtoufikul&theme=react-dark&hide_border=true)
 
 ---
 
@@ -113,8 +90,8 @@ I'm always interested in hearing about new projects and opportunities. Feel free
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge)](https://toufikul-portfolio.web.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/toufikul-islamts)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:imranmeg2356@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)
 
 </div>
@@ -125,8 +102,8 @@ I'm always interested in hearing about new projects and opportunities. Feel free
   
 ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=codewithToufikul&color=blueviolet&style=for-the-badge)
 
-⭐️ From [Toufikul Islam](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Toufikul Islam](https://github.com/codewithToufikul)
 
 </div>
